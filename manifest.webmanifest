@@ -1,0 +1,20 @@
+{
+  "name": "Fellowship Study – GI & Liver",
+  "short_name": "GI & Liver Study",
+  "description": "Egyptian Fellowship study app for GI & liver: Sleisenger hepatology chapters with points, Pearls of Wisdom, flashcards, MCQs, timed exams, daily review and notes. Works offline.",
+  "categories": ["education", "medical", "books"],
+  "lang": "en",
+  "dir": "ltr",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b3f38",
+  "theme_color": "#0f766e",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
